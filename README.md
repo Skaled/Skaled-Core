@@ -3,7 +3,6 @@
 
 
 Check the **[Documentation](https://github.com/Skaled/Skaled-Core/wiki)**! <br>
-This software will include all the others one!  <br>
 
 **How updates will work?** <br>
 v1.number (ex. 1) - Important update, that includes a lot of features that work properly <br>
