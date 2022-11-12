@@ -1,4 +1,7 @@
 # Skaled-Core
+**Status of the development**: Developing a UI, for what I want to develop a UI is better than a simple console log. <br> I know this will take a lot of time before a stable release wich includes all the features, but if you can wait I'll appreciate it.
+
+
 Check the **[Documentation](https://github.com/Skaled/Skaled-Core/wiki)**! <br>
 This software will include all the others one!  <br>
 
