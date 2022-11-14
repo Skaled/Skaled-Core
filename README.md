@@ -1,5 +1,5 @@
 # Skaled-Core
-**Status of the development**: Developing a UI, for what I want to develop a UI is better than a simple console log. <br> I know this will take a lot of time before a stable release wich includes all the features, but if you can wait I'll appreciate it. <br> **Check out my progress [here](https://trello.com/b/08H6V1DG/skaled-core)!**
+**Status of the development**: Released the first two builds. <br> I'm close to release a stable update of it, but before I need to develop a port of Skaled AI for GUI type. <br> **Check out my progress [here](https://trello.com/b/08H6V1DG/skaled-core)!**
 
 
 Check the **[Documentation](https://github.com/Skaled/Skaled-Core/wiki)**! <br>
