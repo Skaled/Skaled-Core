@@ -1,5 +1,4 @@
 # Skaled-Core
-**Developed the GUI! Check out v1.0.2!** <br>
 **Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-core)!**
 
 
