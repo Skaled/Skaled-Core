@@ -1,5 +1,5 @@
 # Skaled-Core
-**I'm coding right now the settings** for the software to let the users change username and other important settings<br>
+Check out the new **stable version** to see all the changes! Spoiler: The software goes from console based to GUI based!
 **Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-core)!**
 
 
