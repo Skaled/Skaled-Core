@@ -1,5 +1,6 @@
 # Skaled-Core
-**Status of the development**: The next update is going to be a stable version! <br> I need only need to do a porting for Skaled AI <br> **Check out my progress [here](https://trello.com/b/08H6V1DG/skaled-core)!**
+**Developed the GUI! Check out v1.0.2!** <br>
+**Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-core)!**
 
 
 Check the **[Documentation](https://github.com/Skaled/Skaled-Core/wiki)**! <br>
