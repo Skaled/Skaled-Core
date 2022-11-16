@@ -10,3 +10,7 @@ v1.number (ex. 1) - Important update, that includes a lot of features that work 
 v1.1.number (ex. 1) - Update that includes some experimental features still in development <br>
 v1.1.1.number (ex. 1) - Occasionally updates that includes hotfixes for bugs not fixed in previous updates <br>
 **Note:** I will only set to latest release the first one of the list, but there are others release available.
+
+**FAQ:** <br>
+Q: Why you don't set at latest every new release? <br>
+A: Because are experimental features that when a new stable update will come they will be stable, and don't might cause the software to crash.
