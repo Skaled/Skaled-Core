@@ -1,5 +1,5 @@
 # Skaled-Core
-Check out the new **stable version** to see all the changes! Spoiler: The software goes from console based to GUI based!
+Check out the new **stable version** to see all the changes! Spoiler: The software goes from console based to GUI based! <br>
 **Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-core)!**
 
 
