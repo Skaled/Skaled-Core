@@ -7,7 +7,7 @@ Check the **[Documentation](https://github.com/Skaled/Skaled-Core/wiki)**! <br>
 Q: When are going to be released other softwares beyond Skaled AI? <br>
 A:
 * **Skaled Chatter** is deprecated and not going to be official released.
-* **Skaled Manager** is going to be released within **01/01/2023**
+* **Skaled Manager** is going to be released within **01/01/2023**. **Now is officially in developement!**
 * **Skaled Chatter integrations** are deprecated and not more intended to be developed.
 * **Skaled Writer** is going to be released within **01/06/2023**
 * **Skaled Viewer** is going to be released within **01/07/2023**
