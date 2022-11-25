@@ -2,7 +2,7 @@
 **New stable version released! v1.2.0**
 
 **FAQ:** <br>
-Q: Release date of new softwares?** <br>
+Q: **Release date of new softwares?** <br>
 A:
 * **Skaled Chatter** is deprecated and not going to be official released.
 * **Skaled Manager** is going to be released within **01/01/2023**. **Released**, but is going to receive new updates!
