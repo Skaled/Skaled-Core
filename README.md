@@ -29,5 +29,5 @@ A:
 Q: What are you currently developing? <br>
 A: **Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-core)!**
 
-Q: What does mean **Skaled AI 2**?
+Q: What does mean **Skaled AI renewed**? <br>
 A: It's a renewed AI. I like how it is now, but if I can improve it, it would be awesome. I have some ideas of how it could be.
