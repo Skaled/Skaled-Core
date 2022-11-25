@@ -1,13 +1,11 @@
 # Skaled-Core
-Check out the new **stable version** to see all the changes! Spoiler: The software goes from console based to GUI based! <br>
-
-Check the **[Documentation](https://github.com/Skaled/Skaled-Core/wiki)**! <br>
+**New stable version released! v1.2.0**
 
 **FAQ:** <br>
-Q: When are going to be released other softwares beyond Skaled AI? <br>
+Q: Release date of new softwares?**
 A:
 * **Skaled Chatter** is deprecated and not going to be official released.
-* **Skaled Manager** is going to be released within **01/01/2023**. **Now is officially in developement!**
+* **Skaled Manager** is going to be released within **01/01/2023**. **Released**, but is going to receive new updates!
 * **Skaled Chatter integrations** are deprecated and not more intended to be developed.
 * **Skaled Writer** is going to be released within **01/06/2023**
 * **Skaled Viewer** is going to be released within **01/07/2023**
@@ -29,5 +27,5 @@ A:
 Q: What are you currently developing? <br>
 A: **Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-core)!**
 
-Q: What does mean **Skaled AI renewed**? <br>
-A: It's a renewed AI. I like how it is now, but if I can improve it, it would be awesome. I have some ideas of how it could be.
+Q: Where has gone the **Documentation**? <br>
+A: Is no longer needed, it was intended only to be used for console based.
