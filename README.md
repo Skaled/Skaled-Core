@@ -24,3 +24,8 @@ A: **Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-c
 
 Q: Where has gone the **Documentation**? <br>
 A: Is no longer needed, it was intended only to be used for console based.
+
+
+**About the software** <br>
+For someone who likes to try older version of the software, the software is still compatible with the first version! <br>
+Skaled AI was not meant to be included in an another software.
