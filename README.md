@@ -1,12 +1,9 @@
 # Skaled-Core
-**I'm taking a break from developing**. See you in a couple of days.
 
 **FAQ:** <br>
 Q: **Release date of new softwares?** <br>
 A:
-* **Skaled Chatter** is deprecated and not going to be official released.
 * **Skaled Manager** is officially released in **v1.2.0**! Check it out!
-* **Skaled Chatter integrations** are deprecated and not more intended to be developed.
 * **Skaled Writer** is going to be released within **01/06/2023**
 * **Skaled Viewer** is going to be released within **01/07/2023**
 * **Skaled Calculator** is going to be released within **15/07/2023**
