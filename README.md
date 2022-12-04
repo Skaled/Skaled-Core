@@ -1,9 +1,11 @@
 # Skaled-Core
 
+**New stable release, v1.3.0, has been published right now! Check it out!**
+
 **FAQ:** <br>
 Q: **Release date of new softwares?** <br>
 A:
-* **Skaled Manager** is officially released in **v1.2.0**! Check it out!
+* **Skaled Manager** can be found from **v1.2.0**.
 * **Skaled Writer** is going to be released within **01/06/2023**
 * **Skaled Viewer** is going to be released within **01/07/2023**
 * **Skaled Calculator** is going to be released within **15/07/2023**
