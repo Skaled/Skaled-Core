@@ -1,17 +1,17 @@
 # Skaled-Core
 
-**New stable release, v1.3.0, has been published right now! Check it out!**
+<b>New stable release, v1.3.0, has been published right now! Check it out!</b>
 
 <h3>FAQ:</h3>
-Q: **Release date of new softwares?** <br>
+Q: <b>Release date of new softwares </b>? <br>
 A:
-* **Skaled Manager** can be found from **v1.2.0**.
-* **Skaled Crypter** is going to be released within **01/10/2023**
-* **Skaled Writer** is going to be released within **01/04/2024**
-* **Skaled Viewer** is going to be released within **01/05/2024**
-* **Skaled Calculator** is going to be released within **15/05/2024**
-* **Skaled AI renewed** is going to be released within **01/10/2024**
-* **Skaled Terminal** is going to be released within **01/12/2024**
+<li>Skaled Manager can be found from **v1.2.0. </li>
+<li>Skaled Crypter is going to be released within **01/10/2023 </li>
+<li>Skaled Writer is going to be released within **01/04/2024 </li>
+<li>Skaled Viewer is going to be released within **01/05/2024 </li>
+<li>Skaled Calculator is going to be released within **15/05/2024 </li>
+<li>Skaled AI renewed is going to be released within **01/10/2024 </li>
+<li>*Skaled Terminal is going to be released within **01/12/2024 </li>
 
 Q: When experimental releases are going to get a translation for every language? <br>
 A: Probably when a stable release will come.
@@ -25,15 +25,16 @@ A:
 * v1.1.number (ex. 1) - Update that includes some experimental features still in development <br>
 
 Q: What are you currently developing? <br>
-A: **Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-core)!**
+A: <b>Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-core)! </b>
 
-Q: Where has gone the **Documentation**? <br>
+Q:<b> Where has gone the **Documentation?</b> <br>
 A: Is no longer needed, it was intended only to be used for console based.
 
-<h3>For languages not available: </h3>
-Check this [branch]() to see an english translation sample. From here use a text editor and translate the english phrases in the qoutes to your language. <br>
+<h3>How to translate the software to your language: </h3>
+Download the source code available. <br>
+From here use a text editor and translate the english phrases in the qoutes to your language. <br>
 After that make a pull request with all the phrases translated. <br>
-If the translation will be accepted, in the next version that will be publish you'll find your username in the credits section with the respective language translated.
+If the translation will be accepted, in the next version that will be published you'll find your username in the credits section with the respective language translated.
 
 <h3>About the software</h3>
 For someone who likes to try older version of the software, the software is still compatible with the first version! <br>
