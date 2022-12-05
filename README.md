@@ -13,6 +13,9 @@ A:
 * **Skaled AI renewed** is going to be released within **01/10/2024**
 * **Skaled Terminal** is going to be released within **01/12/2024**
 
+Q: When experimental releases are going to get a translation for every language? <br>
+A: Probably when a stable release will come.
+
 Q: Why you don't set at latest every new release? <br>
 A: Because are experimental features that when a new stable update will come they will be stable, and don't might cause the software to crash.
 
