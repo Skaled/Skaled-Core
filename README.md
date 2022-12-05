@@ -30,7 +30,7 @@ A: **Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-c
 Q: Where has gone the **Documentation**? <br>
 A: Is no longer needed, it was intended only to be used for console based.
 
-<h3>For languages not available:/h3>
+<h3>For languages not available: </h3>
 Check this [branch]() to see an english translation sample. From here use a text editor and translate the english phrases in the qoutes to your language. <br>
 After that make a pull request with all the phrases translated. <br>
 If the translation will be accepted, in the next version that will be publish you'll find your username in the credits section with the respective language translated.
