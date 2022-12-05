@@ -2,7 +2,7 @@
 
 **New stable release, v1.3.0, has been published right now! Check it out!**
 
-**FAQ:** <br>
+<h3>FAQ:</h3>
 Q: **Release date of new softwares?** <br>
 A:
 * **Skaled Manager** can be found from **v1.2.0**.
@@ -30,7 +30,11 @@ A: **Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-c
 Q: Where has gone the **Documentation**? <br>
 A: Is no longer needed, it was intended only to be used for console based.
 
+<h3>For languages not available:/h3>
+Check this [branch]() to see an english translation sample. From here use a text editor and translate the english phrases in the qoutes to your language. <br>
+After that make a pull request with all the phrases translated. <br>
+If the translation will be accepted, in the next version that will be publish you'll find your username in the credits section with the respective language translated.
 
-**About the software** <br>
+<h3>About the software</h3>
 For someone who likes to try older version of the software, the software is still compatible with the first version! <br>
 Skaled AI was not meant to be included in an another software.
