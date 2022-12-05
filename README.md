@@ -6,12 +6,12 @@
 Q: **Release date of new softwares?** <br>
 A:
 * **Skaled Manager** can be found from **v1.2.0**.
-* **Skaled Writer** is going to be released within **01/06/2023**
-* **Skaled Viewer** is going to be released within **01/07/2023**
-* **Skaled Calculator** is going to be released within **15/07/2023**
-* **Skaled Crypter** is going to be released within **01/09/2023**
-* **Skaled AI renewed** is going to be released within **01/03/2024**
-* **Skaled Terminal** is going to be released within **01/05/2024**
+* **Skaled AI renewed** is going to be released within **01/10/2023**
+* **Skaled Writer** is going to be released within **01/04/2024**
+* **Skaled Viewer** is going to be released within **01/05/2024**
+* **Skaled Calculator** is going to be released within **15/05/2024**
+* **Skaled Crypter** is going to be released within **01/07/2024**
+* **Skaled Terminal** is going to be released within **01/12/2024**
 
 Q: Why you don't set at latest every new release? <br>
 A: Because are experimental features that when a new stable update will come they will be stable, and don't might cause the software to crash.
