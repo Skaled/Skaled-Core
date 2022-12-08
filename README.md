@@ -30,7 +30,7 @@ A:
 Q: What are you currently developing? <br>
 A: <b>Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-core)! </b>
 
-Q:<b> Where has gone the **Documentation?</b> <br>
+Q: Where has gone the Documentation?<br>
 A: Is no longer needed, it was intended only to be used for console based.
 
 Q:When a new stable release will come? <br>
