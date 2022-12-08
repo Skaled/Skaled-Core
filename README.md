@@ -34,7 +34,7 @@ Q: Where has gone the Documentation?<br>
 A: Is no longer needed, it was intended only to be used for console based.
 
 Q:When a new stable release will come? <br>
-A: Probably when Skaled Crytpter will come.
+A: Probably when Skaled Crytpter will be fully developed.
 
 <h3>How to translate the software to your language: </h3>
 Download the source code available. <br>
