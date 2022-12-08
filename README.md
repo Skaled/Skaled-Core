@@ -5,7 +5,7 @@
 <h3>FAQ:</h3>
 Q: <b>Release date of new softwares </b>? <br>
 A:
-<li>Skaled Manager can be found from **v1.2.0. </li>
+<li>Skaled Manager can be found from <b>v1.2.0</b>.</li>
 <li>Skaled Crypter is going to be released within <b>01/10/2023</b></li>
 <li>Skaled Writer is going to be released within <b>01/04/2024</b></li>
 <li>Skaled Viewer is going to be released within <b>01/05/2024</b></li>
