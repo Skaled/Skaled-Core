@@ -1,3 +1,5 @@
+# Open this file with a text editor and translate the english phrases, in the qoutes, to your language.
+
 ts_changelog = "Changelog"
 ts_future_features = "Future Features"
 ts_settings = "Settings"
