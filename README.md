@@ -1,7 +1,6 @@
 # Skaled-Core
 
 <b>It's been a month since the first release! The 09/11/2022! A lot have changed, and a lot will change. Stay tuned! </b>
-<b>New stable release, v1.3.0, has been published right now! Check it out!</b>
 
 <h3>FAQ:</h3>
 Q: <b>Release date of new softwares </b>? <br>
