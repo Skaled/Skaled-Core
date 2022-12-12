@@ -1,7 +1,10 @@
 # Skaled-Core
 
-<b>It's been a month since the first release! The 09/11/2022! A lot have changed, and a lot will change. Stay tuned! </b>
+<b>This software will no longer be developed for an indefinite time.</b> For now this software will be marked as public archive. <br>
+If you still want to use it download the latest stable version available. <br>
+Hope to see you soon.
 
+ <b> Deprecated:</b> <br>
 <h3>FAQ:</h3>
 Q: <b>Release date of new softwares </b>? <br>
 A:
