@@ -1,10 +1,7 @@
 # Skaled-Core
 
-<b>This software will no longer be developed for an indefinite time.</b> For now this software will be marked as public archive. <br>
-If you still want to use it download the latest stable version available. <br>
-Hope to see you soon.
+<b>I'm returned but with minor frequency of updates.</b>
 
- <b> Deprecated:</b> <br>
 <h3>FAQ:</h3>
 Q: <b>Release date of new softwares </b>? <br>
 A:
