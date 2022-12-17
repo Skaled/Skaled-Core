@@ -35,5 +35,6 @@ If the translation will be accepted, in the next version that will be published 
 For someone who likes to try older version of the software, the software is still compatible with the first version! <br>
 Skaled AI was not meant to be included in an another software. <br>
 The first release was published the 09/11/2022. <br>
-Core is the name I like best for a software that includes more.
-If you could see it, I've released for just a moment v1.4.0 before than the really one that has just got published.
+Core is the name I like best for a software that includes more. <br>
+If you could see it, I've released for just a moment v1.4.0 before than the really one that has just got published. <br>
+This software is the successor of Skaled Manager, was the same idea but it came not how I wanted it.
