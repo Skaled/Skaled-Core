@@ -3,6 +3,9 @@
 Q: When a new stable release will come? <br>
 A: <b>I've just released v1.4.0. Check it out!</b>
 
+Q: All releases are going to get Debian OS too? <br>
+A: No, because it would take me too much time. So only the stable releases are going to get it.
+
 Q: When experimental releases are going to get a translation for every language? <br>
 A: When a stable release will come.
 
