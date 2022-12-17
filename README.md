@@ -28,7 +28,7 @@ A: Is no longer needed, it was intended only to be used for console based.
 <h3>How to translate the software to your language: </h3>
 Download the source code available. <br>
 From here use a text editor and translate the english phrases in the qoutes to your language. <br>
-After that make a pull request with all the phrases translated. <br>
+After that make a issue with the label <b>Translation</b> with the file. <br>
 If the translation will be accepted, in the next version that will be published you'll find your username in the credits section with the respective language translated.
 
 <h3>About the software</h3>
