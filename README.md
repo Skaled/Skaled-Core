@@ -1,5 +1,8 @@
 # Skaled-Core
 <h3>FAQ:</h3>
+Q: When a new stable release will come? <br>
+A: <b>I've just released v1.4.0. Check it out!</b>
+
 Q: When experimental releases are going to get a translation for every language? <br>
 A: When a stable release will come.
 
@@ -20,8 +23,7 @@ A: <b>Check out what I'm developing [here](https://trello.com/b/08H6V1DG/skaled-
 Q: Where has gone the Documentation?<br>
 A: Is no longer needed, it was intended only to be used for console based.
 
-Q: When a new stable release will come? <br>
-A: It isn't planned for now. But, probably when the software gets important changes.r
+
 
 <h3>How to translate the software to your language: </h3>
 Download the source code available. <br>
@@ -34,3 +36,4 @@ For someone who likes to try older version of the software, the software is stil
 Skaled AI was not meant to be included in an another software. <br>
 The first release was published the 09/11/2022. <br>
 Core is the name I like best for a software that includes more.
+If you could see it, I've released for just a moment v1.4.0 before than the really one that has just got published.
