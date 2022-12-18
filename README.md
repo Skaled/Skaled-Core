@@ -3,9 +3,6 @@
 Q: When a new stable release will come? <br>
 A: <b>I've just released v1.4.0. Check it out!</b>
 
-Q: All releases are going to get Debian OS too? <br>
-A: No, because it would take me too much time. So only the stable releases are going to get it.
-
 Q: When experimental releases are going to get a translation for every language? <br>
 A: When a stable release will come.
 
@@ -40,4 +37,5 @@ Skaled AI was not meant to be included in an another software. <br>
 The first release was published the 09/11/2022. <br>
 Core is the name I like best for a software that includes more. <br>
 If you could see it, I've released for just a moment v1.4.0 before than the really one that has just got published. <br>
-This software is the successor of Skaled Manager, was the same idea but it came not how I wanted it.
+This software is the successor of Skaled Manager, was the same idea but it came not how I wanted it. <br>
+v1.4.0 was the first version meant to include in other OS, but for the time that it would took I prefered to do it when the development is in mainteinament.
