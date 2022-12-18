@@ -1,4 +1,5 @@
 # Open this file with a text editor and translate the english phrases, in the qoutes, to your language.
+# \n Means new line.
 
 # System
 ts_system= "System"
