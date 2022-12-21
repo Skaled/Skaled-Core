@@ -1,7 +1,7 @@
 # Skaled-Core
 <h3>FAQ:</h3>
 Q: When a new stable release will come? <br>
-A: <b>I've just released v1.4.0. Check it out!</b> <br>
+A: <b>I've just released v1.4.0. Check it out!</b> <br> <br>
 
 Q: When experimental releases are going to get a translation for every language? <br>
 A: When a stable release will come.
