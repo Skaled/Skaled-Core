@@ -1,8 +1,5 @@
 # Skaled-Core
 <h3>FAQ:</h3>
-Q: When a new stable release will come? <br>
-A: <b>I've just released v1.4.0. Check it out!</b> <br> <br>
-
 Q: When experimental releases are going to get a translation for every language? <br>
 A: When a stable release will come.
 
@@ -11,6 +8,9 @@ A: Because I'm not developing every day and winter holidays are coming. So you'l
 
 Q: Why you don't set as latest every new release? <br>
 A: Because are experimental features that when a new stable update will come they will be stable, and don't might cause the software to crash.
+
+Q: When a new stable release will come? <br>
+A: Probably in a few months. For now I'm not developing anything that changes a lot the software from v1.4.0.<br>
 
 Q: How updates work? <br>
 A:
