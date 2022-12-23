@@ -19,6 +19,7 @@ ts_future_features = "Future Features"
 ts_settings = "Settings"
 ts_credits = "Credits"
 ts_license = "License"
+ts_translate_software = "Translate Software"
 
 # Settings
 ts_change_username = "Change username: "
