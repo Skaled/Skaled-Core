@@ -1,7 +1,7 @@
 # Skaled-Core
 <h3>FAQ:</h3>
 Q: When experimental releases are going to get a translation for every language? <br>
-A: When a stable release will come.
+A: When a stable release will come. <br>
 
 Q: Why now you aren't releasing new versions every day? <br>
 A: Because I'm not developing every day and winter holidays are coming. So you'll see less releases.
