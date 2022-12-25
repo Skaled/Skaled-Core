@@ -1,0 +1,3 @@
+000001 - The delete data function hasn't found the file to destroy
+000002 - The data "language" hasn't been found in the data file
+000003 - The data "language" is different from the language supported
