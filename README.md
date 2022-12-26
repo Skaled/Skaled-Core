@@ -1,7 +1,4 @@
 # Skaled-Core
-
-<h2>Merry Christmas from Skaled Team! </h2> <br> <br>
-
 <h3>FAQ:</h3>
 Q: When experimental releases are going to get a translation for every language? <br>
 A: When a stable release will come. <br> <br>
