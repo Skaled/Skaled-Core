@@ -10,7 +10,7 @@ Q: Why you don't set as latest every new release? <br>
 A: Because are experimental features that when a new stable update will come they will be stable, and don't might cause the software to crash.
 
 Q: When a new stable release will come? <br>
-A: Probably in a few months. For now I'm not developing anything that changes a lot the software from v1.4.0.<br>
+A: It isn't so far, but for this update expect not new functions, because is incentraded in improvements to system.
 
 Q: How updates work? <br>
 A:
